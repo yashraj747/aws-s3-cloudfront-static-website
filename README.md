@@ -52,28 +52,28 @@ User → CloudFront (CDN) → S3 Bucket
 ## 📸 Screenshots
 
 ### 🔹 S3 Bucket List
-![S3 Bucket](screenshots/1-s3-bucket.png)
+![S3 Bucket](https://github.com/yashraj747/aws-s3-cloudfront-static-website/blob/main/screenshots/S3%20Bucket%20List.png)
 
 ### 🔹 index.html inside Bucket
-![Index File](screenshots/2-index-file.png)
+![Index File](https://github.com/yashraj747/aws-s3-cloudfront-static-website/blob/main/screenshots/index.html%20inside%20bucket.png)
 
 ### 🔹 Static Website Hosting Enabled
-![Hosting](screenshots/3-static-hosting.png)
+![Hosting](https://github.com/yashraj747/aws-s3-cloudfront-static-website/blob/main/screenshots/Static%20hosting%20enabled.png)
 
 ### 🔹 Bucket Policy Applied
-![Policy](screenshots/4-bucket-policy.png)
+![Policy](https://github.com/yashraj747/aws-s3-cloudfront-static-website/blob/main/screenshots/Bucket%20policy.png)
 
 ### 🔹 CloudFront Distribution List
-![CloudFront List](screenshots/5-cloudfront-list.png)
+![CloudFront List](https://github.com/yashraj747/aws-s3-cloudfront-static-website/blob/main/screenshots/CloudFront%20distribution%20list.png)
 
 ### 🔹 CloudFront Distribution Details
-![CloudFront Details](screenshots/6-cloudfront-details.png)
+![CloudFront Details](https://github.com/yashraj747/aws-s3-cloudfront-static-website/blob/main/screenshots/CloudFront%20details.png)
 
 ### 🔹 CloudFront Behavior Settings
-![Behavior](screenshots/7-cloudfront-behavior.png)
+![Behavior](https://github.com/yashraj747/aws-s3-cloudfront-static-website/blob/main/screenshots/CloudFront%20behavior%20settings.png)
 
 ### 🔹 Final Website Output
-![Output](screenshots/8-final-output.png)
+![Output](https://github.com/yashraj747/aws-s3-cloudfront-static-website/blob/main/screenshots/Final%20working%20website.png)
 
 ---
 
