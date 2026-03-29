@@ -78,7 +78,7 @@ User → CloudFront (CDN) → S3 Bucket
 ![Behavior](https://github.com/yashraj747/aws-s3-cloudfront-static-website/blob/main/screenshots/CloudFront%20behavior%20settings.png)
 
 ### 🔹 Final Website Output
-![Output](https://github.com/yashraj747/aws-s3-cloudfront-static-website/blob/main/screenshots/Final%20working%20website.png)
+![Output](https://github.com/yashraj747/aws-s3-cloudfront-static-website/blob/main/screenshots/Working%20website.png)
 
 ---
 
